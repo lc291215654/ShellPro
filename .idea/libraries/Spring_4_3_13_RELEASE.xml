@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Spring-4.3.13.RELEASE" type="spring">
+    <properties version="4.3.13.RELEASE" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SpringPro/lib/spring-instrument-4.3.13.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SpringPro/lib/spring-instrument-tomcat-4.3.13.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SpringPro/lib/spring-aspects-4.3.13.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SpringPro/lib/spring-context-support-4.3.13.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SpringPro/lib/spring-aop-4.3.13.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SpringPro/lib/spring-expression-4.3.13.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SpringPro/lib/spring-beans-4.3.13.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SpringPro/lib/spring-jms-4.3.13.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SpringPro/lib/spring-jdbc-4.3.13.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SpringPro/lib/spring-oxm-4.3.13.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SpringPro/lib/spring-core-4.3.13.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SpringPro/lib/spring-orm-4.3.13.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SpringPro/lib/spring-context-4.3.13.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SpringPro/lib/spring-test-4.3.13.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SpringPro/lib/spring-tx-4.3.13.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SpringPro/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SpringPro/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SpringPro/lib/spring-messaging-4.3.13.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
